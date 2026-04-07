@@ -11,5 +11,5 @@ FastAPI + PostgreSQL + Docker delivery layer
 
 **Status:** Platform in active architecture and development.
 
-**Founder:** [Christian Lira Gonzalez](https://github.com/ChristianLG2) 
+**Point of Contact:** [Christian Lira Gonzalez](https://github.com/ChristianLG2) 
 · [clirago.com](https://clirago.com)
