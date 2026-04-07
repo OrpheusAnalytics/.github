@@ -1,12 +1,16 @@
 # Orpheus Analytics
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OrpheusAnalytics/.github/main/profile/Git-Banner.png" 
+       alt="Orpheus Analytics" width="100%">
+</p>
+
 Analytics engineering platform transforming public economic datasets 
 into standardized, API-accessible data products.
 
 **What we build:** ELT ingestion pipelines → OLAP dimensional models → 
 FastAPI + PostgreSQL + Docker delivery layer
 
-**Stack:** Python · FastAPI · PostgreSQL · Docker · SQL · OLAP modeling
 
 **Status:** Platform in active architecture and development.
 
