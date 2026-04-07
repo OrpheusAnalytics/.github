@@ -1,5 +1,3 @@
-# Orpheus Analytics
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/OrpheusAnalytics/.github/main/profile/Git-Banner.png" 
        alt="Orpheus Analytics" width="100%">
