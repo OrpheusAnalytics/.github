@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OrpheusAnalytics/.github/main/profile/Git-Banner.png" 
+  <img src="https://raw.githubusercontent.com/OrpheusAnalytics/.github/main/profile/Git-Banner(2).png" 
        alt="Orpheus Analytics" width="100%">
 </p>
 
