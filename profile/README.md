@@ -18,7 +18,7 @@ This is not a data problem. It is an infrastructure problem.
 ## What we do
 
 **Data infrastructure consulting**
-We work with organizations to design, build, and standardize the data infrastructure that underlies good decisions pipelines, models, reporting layers, and the governance frameworksthat keep them reliable over time.
+We work with organizations to design, build, and standardize the data infrastructure that underlies good decisions pipelines, models, reporting layers, and the governance frameworks that keep them reliable over time.
 Whether your team needs cleaner dataflows, self-serve reporting, or a foundation for analytical work we build infrastructure that lasts and that your people can maintain.
 
 **Intelligence products**
