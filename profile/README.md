@@ -12,7 +12,7 @@
 ## The problem we solve
 
 Data exists in every department. It arrives late, lives in silos, and requires technical effort to access.
-By the time it reaches a decision maker it is already outdated or worse, inconsistent with what another teamis reporting.
+By the time it reaches a decision maker it is already outdated or worse, inconsistent with what another team is reporting.
 This is not a data problem. It is an infrastructure problem.
 
 ## What we do
