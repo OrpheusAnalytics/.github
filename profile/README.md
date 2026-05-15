@@ -32,7 +32,7 @@ Organizations that know their data could be working harder for them, and want a 
 
 ## Let's talk
 
-**ChristianLG@orpheusanalyticsgroup.com**
+**Christianlg@orpheusanalyticsgroup.com**
 
 ---
 
